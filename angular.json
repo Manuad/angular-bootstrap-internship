@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-bootstrap-intership"
+    }
+  },
+  "defaultProject": "angular-bootstrap-intership",
+  "cli": {
+    "analytics": "249a7756-5203-4c8c-ab46-0951478e3f58"
+  }
 }
